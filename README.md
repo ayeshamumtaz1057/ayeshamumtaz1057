@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- 3D Animated Header Banner (venom type gives depth illusion) -->
+<!-- 3D Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1a2e,60:2d1b69,100:4c1d95&height=200&section=header&text=Ayesha%20Mumtaz&fontSize=50&fontColor=e9d5ff&fontAlignY=55&animation=fadeIn&desc=Future%20AI%20Engineer%20%F0%9F%A4%96%20%7C%20Web%20Developer%20%7C%20Python%20Developer&descAlignY=75&descSize=16&descColor=c084fc&stroke=7c3aed&strokeWidth=2"/>
 
 <!-- Profile badges -->
@@ -261,7 +261,7 @@ A smart conversational chatbot using HuggingFace Transformers. Will include inte
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Activity Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeshamumtaz1057&bg_color=0d1117&color=c084fc&line=a855f7&point=c084fc&area=true&hide_border=true"/>
@@ -271,24 +271,50 @@ A smart conversational chatbot using HuggingFace Transformers. Will include inte
 
 ## 🐍 Contribution Snake Animation
 
-<div align="center">
+> ⚙️ **Needs one-time GitHub Action setup — see instructions below**
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayeshamumtaz1057/ayeshamumtaz1057/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayeshamumtaz1057/ayeshamumtaz1057/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayeshamumtaz1057/ayeshamumtaz1057/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ayeshamumtaz1057/ayeshamumtaz1057/output/github-snake.svg"/>
 </picture>
-
 </div>
 
 <details>
-<summary>⚙️ Click to see Snake Setup Instructions</summary>
+<summary>📋 Snake Setup — Copy & Paste Ready!</summary>
 
-1. Create folder `.github/workflows/` in your profile repo
-2. Create file `snake.yml` with the Platane/snk action
-3. Go to **Settings → Actions → General → Allow all actions**
-4. Run the workflow manually once — snake appears!
-5. It auto-updates every day after that 🐍
+**1.** In your `ayeshamumtaz1057` repo, create the file: `.github/workflows/snake.yml`
+
+**2.** Paste this inside it:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ayeshamumtaz1057
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**3.** Go to **Actions tab → "Generate Snake" → Run workflow** ✅
 
 </details>
 
@@ -296,19 +322,49 @@ A smart conversational chatbot using HuggingFace Transformers. Will include inte
 
 ## 🌐 3D Contribution Calendar
 
+> ⚙️ **Needs one-time GitHub Action setup — see instructions below**
+
 <div align="center">
-
-<img src="https://github-profile-3d-contrib.vercel.app/svg/contrib/ayeshamumtaz1057-purple.svg" alt="3D Contribution Calendar" width="80%"/>
-
+<img src="https://raw.githubusercontent.com/ayeshamumtaz1057/ayeshamumtaz1057/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="85%"/>
 </div>
 
 <details>
-<summary>⚙️ Click to see 3D Calendar Setup</summary>
+<summary>📋 3D Calendar Setup — Copy & Paste Ready!</summary>
 
-1. Go to [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
-2. Add the GitHub Action to your profile repo
-3. It generates a stunning 3D version of your contribution graph!
-4. Replace `ayeshamumtaz1057` in the URL above with your username
+**1.** In your `ayeshamumtaz1057` repo, create: `.github/workflows/3d-contrib.yml`
+
+**2.** Paste this inside it:
+
+```yaml
+name: GitHub 3D Contributions
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ayeshamumtaz1057
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A .
+          git commit -m "Generate 3D contribution graph"
+          git push
+```
+
+**3.** Go to **Actions tab → "GitHub 3D Contributions" → Run workflow** ✅
+
+The image will appear at `profile-3d-contrib/profile-night-rainbow.svg` in your repo automatically!
 
 </details>
 
@@ -317,7 +373,9 @@ A smart conversational chatbot using HuggingFace Transformers. Will include inte
 ## 💬 Quote of the Day
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20secret%20of%20getting%20ahead%20is%20getting%20started&author=Mark%20Twain)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
 
 ---
@@ -325,7 +383,9 @@ A smart conversational chatbot using HuggingFace Transformers. Will include inte
 ## 😄 Random Dev Joke
 
 <div align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=dark&bgColor=%230d1117&textColor=%23c084fc&borderColor=%237c3aed" alt="Dev Joke"/>
+
+[![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=midnight-purple&bgColor=%230d1117&textColor=%23c084fc&aColor=%23a855f7&borderColor=%237c3aed)](https://github.com/ABSphreak/readme-jokes)
+
 </div>
 
 ---
