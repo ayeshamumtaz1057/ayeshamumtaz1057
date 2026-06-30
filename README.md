@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1a2e,60:2d1b69,100:4c1d95&height=200&section=header&text=Ayesha%20Mumtaz&fontSize=50&fontColor=e9d5ff&fontAlignY=55&animation=fadeIn&desc=Future%20AI%20Engineer%20%F0%9F%A4%96%20%7C%20Web%20Developer%20%7C%20Python%20Developer&descAlignY=75&descSize=16&descColor=c084fc&stroke=7c3aed&strokeWidth=2"/>
 
 <!-- Profile badges -->
-<img src="https://komarev.com/ghpvc/?username=ayeshamumtaz1057&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=ayeshamumtaz1&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/ayeshamumtaz1057?style=for-the-badge&color=238636&labelColor=0d1117&label=FOLLOWERS"/>
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-c084fc?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 <img src="https://img.shields.io/badge/GOAL-AI%20Engineer%20%F0%9F%A4%96-7c3aed?style=for-the-badge&logo=openai&logoColor=white"/>
