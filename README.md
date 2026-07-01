@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFD93D,50:6BCB77,75:4D96FF,100:9D4EDD&height=200&section=header&text=Hi%2C%20I%27m%20Ayesha%20Mumtaz%20%F0%9F%91%8B&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer%20%26%20Future%20AI%20Engineer&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FFD93D,50:6BCB77,75:4D96FF,100:9D4EDD&height=200&section=header&text=Hi%2C%20I%27m%20Ayesha%20Mumtaz%20%F0%9F%91%8B&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer%20and%20Future%20AI%20Engineer&descAlignY=58&descAlign=50"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayeshamumtaz1057&style=for-the-badge&color=f72585&label=PROFILE+VIEWS)
 
@@ -30,7 +30,7 @@
 
 | 🎓 Education | 🌍 Location | 💻 Projects | 🔧 Learning |
 |:---:|:---:|:---:|:---:|
-| **BS in IT** <br/> Class of 2028 | **Pakistan** 🇵🇰 <br/> Faisalabad | **6 Repos** <br/> And growing | **HTML • CSS • Python** <br/> Fundamentals |
+| **BS in IT** <br/> Class of 2028 | **Pakistan** 🇵🇰 <br/> Bahawalpur, Punjab | **6 Repos** <br/> And growing | **HTML • CSS • Python** <br/> Fundamentals |
 
 </div>
 
@@ -67,61 +67,6 @@ Right now I'm focused on **HTML, CSS, and core Python** (variables, operators, c
 
 ---
 
-## 🏆 Featured Projects — Showcase So Far
-
-<div align="center">
-
-### 🌐 Resume Website
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Status](https://img.shields.io/badge/Status-Active-6BCB77?style=flat-square)
-
-Personal HTML resume built for hosting on GitHub Pages
-
-✅ Clean, semantic HTML structure
-✅ Custom CSS styling
-✅ Deployable via GitHub Pages
-
-→ [View Repo](https://github.com/ayeshamumtaz1057/my-resume---profile)
-
-<br/>
-
-### 🔐 Login Form UI
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Status](https://img.shields.io/badge/Status-Active-6BCB77?style=flat-square)
-
-A styled login form with email & password fields, built from scratch
-
-✅ Form structure with HTML
-✅ Custom CSS layout & styling
-
-→ [View Repo](https://github.com/ayeshamumtaz1057/login---form)
-
-<br/>
-
-### 🖥️ First HTML Project
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Status](https://img.shields.io/badge/Status-Active-6BCB77?style=flat-square)
-
-My first step into front-end web development
-
-✅ Foundational HTML structure and content
-
-→ [View Repo](https://github.com/ayeshamumtaz1057/My--first--html)
-
-<br/>
-
-### 🐍 Python Fundamentals Series
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B) ![Status](https://img.shields.io/badge/Status-Active-6BCB77?style=flat-square)
-
-Three focused mini-projects covering the core building blocks of Python
-
-✅ Variables & data types
-✅ Arithmetic, comparison & logical operators
-✅ Conditional logic (if / elif / else)
-
-→ [Variables](https://github.com/ayeshamumtaz1057/python-variables-basics) · [Operators](https://github.com/ayeshamumtaz1057/python-operators-basics) · [Conditions](https://github.com/ayeshamumtaz1057/python-conditions-basics)
-
-</div>
-
----
-
 ## 📈 GitHub Statistics
 
 <div align="center">
@@ -148,6 +93,16 @@ Three focused mini-projects covering the core building blocks of Python
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeshamumtaz1057&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&area=true&hide_border=true"/>
 
 </div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ayeshamumtaz1057/ayeshamumtaz1057/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+<p align="center"><sub>🔧 This animated snake needs a one-time GitHub Action setup in your profile repo — say the word and I'll generate the workflow file for you.</sub></p>
 
 ---
 
@@ -214,7 +169,7 @@ Always open to connecting with fellow learners, developers, and mentors 🤝
 ║              HTML • CSS • Python • Growing Daily              ║
 ║                                                                ║
 ║                 BS Information Technology                     ║
-║                     Faisalabad, Pakistan 🇵🇰                  ║
+║                   Bahawalpur, Punjab, Pakistan 🇵🇰             ║
 ║                                                                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -224,5 +179,7 @@ Always open to connecting with fellow learners, developers, and mentors 🤝
 ⭐ **If you find my journey relatable, a star on my repos means a lot!** ⭐
 
 </div>
+
+
 
 
