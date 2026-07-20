@@ -137,4 +137,7 @@ If my projects or journey inspire you, consider:
 - 💬 Connecting on LinkedIn to stay updated
 
 ---
+
+<img src="./banner.png" alt="banner" width="100%"/>
+
 *Thanks for stopping by! 🙌*
