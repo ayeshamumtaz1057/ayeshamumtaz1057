@@ -44,13 +44,12 @@ Proficient in **`Python`** · **`Pandas`** · **`BeautifulSoup`** · **`SQL`** �
 ---
 
 ## 📈 GitHub Statistics
-
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=ayeshamumtaz1057&theme=radical&cache_seconds=60&hide_border=true" alt="stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamumtaz1057&theme=radical&cache_seconds=60&hide_border=true" alt="top langs" height="165"/>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshamumtaz1057&theme=radical&hide_border=true&cache_seconds=60" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=ayeshamumtaz1057&theme=radical&hide_border=true&cache_seconds=60" alt="streak stats"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeshamumtaz1057&theme=github-compact&hide_border=true" alt="activity graph"/>
 
