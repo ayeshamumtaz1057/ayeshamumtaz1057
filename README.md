@@ -138,6 +138,4 @@ If my projects or journey inspire you, consider:
 
 ---
 
-<img src="./banner.png" alt="banner" width="100%"/>
-
 *Thanks for stopping by! 🙌*
