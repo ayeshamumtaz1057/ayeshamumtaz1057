@@ -44,9 +44,10 @@ Proficient in **`Python`** · **`Pandas`** · **`BeautifulSoup`** · **`SQL`** �
 ---
 
 ## 📈 GitHub Statistics
+
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=ayeshamumtaz1057&theme=radical&cache_seconds=60&hide_border=true" alt="stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamumtaz1057&theme=radical&cache_seconds=60&hide_border=true" alt="top langs" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ayeshamumtaz1057&theme=radical&cache_seconds=60&hide_border=true" alt="stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayeshamumtaz1057&theme=radical&cache_seconds=60&hide_border=true" alt="top langs" height="165"/>
 </p>
 
 <img src="https://streak-stats.demolab.com/?user=ayeshamumtaz1057&theme=radical&hide_border=true&cache_seconds=60" alt="streak stats"/>
@@ -60,13 +61,13 @@ Proficient in **`Python`** · **`Pandas`** · **`BeautifulSoup`** · **`SQL`** �
 **Kaggle — Python Certificate of Completion**
 > Core programming fundamentals: variables, functions, loops, conditionals, and data structures.
 
-<img src="./certificates/python-certificate.png" alt="Kaggle Python Certificate" width="500"/>
+<img src="./python-certificate.png" alt="Kaggle Python Certificate" width="500"/>
 
 **Programming with Python 3.X**
 > Practical Python programming course covering language fundamentals and hands-on exercises.
 > Issued 5th July 2026 · Certificate Code: `10430344`
 
-<img src="./certificates/python3x-certificate.png" alt="Programming with Python 3.X Certificate" width="500"/>
+<img src="./python3x-certificate.png" alt="Programming with Python 3.X Certificate" width="500"/>
 
 ---
 
@@ -137,5 +138,6 @@ If my projects or journey inspire you, consider:
 
 ---
 
+<img src="./banner.png" alt="banner" width="100%"/>
 
 *Thanks for stopping by! 🙌*
