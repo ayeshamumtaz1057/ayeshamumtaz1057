@@ -5,6 +5,7 @@
 *BS Information Technology student (Class of 2028) building real projects to learn Python, automation, and data engineering. Experienced with web scraping pipelines, report automation, and data cleaning workflows. Learning by building — not just tutorials.*
 Proficient in **`Python`** · **`Pandas`** · **`BeautifulSoup`** · **`SQL`** · **`Tkinter`** · **`fpdf2`**
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayeshamumtaz1057)
