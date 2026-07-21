@@ -14,7 +14,7 @@ Proficient in **`Python`** · **`Pandas`** · **`BeautifulSoup`** · **`SQL`** �
 ![Followers](https://img.shields.io/github/followers/ayeshamumtaz1057?style=flat-square&logo=github&label=Followers)
 ![Stars](https://img.shields.io/github/stars/ayeshamumtaz1057?affiliations=OWNER&style=flat-square&logo=github&label=Stars)
 
---- 
+---
 
 ## 👋 About Me
 
