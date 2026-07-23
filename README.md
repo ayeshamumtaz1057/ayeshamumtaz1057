@@ -12,7 +12,7 @@ Proficient in **`Python`** · **`Pandas`** · **`BeautifulSoup`** · **`SQL`** �
 
 ![Profile views](https://komarev.com/ghpvc/?username=ayeshamumtaz1057&color=blueviolet&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/ayeshamumtaz1057?style=flat-square&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/ayeshamumtaz1057?affiliations=OWNER&style=flat-square&logo=github&label=Stars)
+![Stars](https://github-readme-stats.vercel.app/api?username=ayeshamumtaz1057&show_icons=true&count_private=true&hide=contribs&hide_rank=true&theme=default)
 
 ---
 
