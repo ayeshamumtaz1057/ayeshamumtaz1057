@@ -11,7 +11,8 @@ Proficient in **`Python`** · **`Pandas`** · **`BeautifulSoup`** · **`SQL`** �
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayeshamumtaz1057)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ayeshamumtaz1057&color=blueviolet&style=flat-square&label=Profile+Views)
-
+![Followers](https://img.shields.io/github/followers/ayeshamumtaz1057?color=blue&style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/ayeshamumtaz1057?color=yellow&style=flat-square&label=Stars)
 ---
 
 ## 👋 About Me
