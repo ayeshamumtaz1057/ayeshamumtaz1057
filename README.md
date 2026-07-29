@@ -34,15 +34,6 @@ Proficient in **`Python`** · **`Pandas`** · **`BeautifulSoup`** · **`SQL`** �
 
 ---
 
-## 🏆 GitHub Score
-
-**🏆 GitHub Score:** 3360
-📊 Formula: `(Commits ×0.5 + Stars ×5 + Forks ×3 + PRs ×4 + Issues ×2 + Followers ×2)`
-
-**🎮 Level 6** `[▓▓▓▓▓▓▓░░░] 72%`
-
----
-
 ## 📈 GitHub Statistics
 
 <p>
