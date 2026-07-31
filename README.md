@@ -22,7 +22,7 @@ Proficient in **`Python`** · **`Pandas`** · **`BeautifulSoup`** · **`SQL`** �
 - 🎯 **Long-term goal:** AI / ML Engineer
 - 📖 **Learning style:** Real projects over tutorials
 - 💬 **Open to:** Collaborations, mentorship, automation discussions
-- 🌍 **Based in:** Bahawalpur, Punjab, Pakistan
+- 🌍 **Based in:** Pakistan
 
 ---
 
