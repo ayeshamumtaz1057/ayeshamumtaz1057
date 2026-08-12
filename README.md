@@ -62,43 +62,6 @@ Proficient in **`Python`** · **`Pandas`** · **`BeautifulSoup`** · **`SQL`** �
 
 ---
 
-## 🚀 Featured Projects
-
-### ⭐ 🤖 Python Web Scraping & Automation
-Live scraper → PDF/CSV reports → Automated email delivery
-
-A complete automation pipeline with a Tkinter GUI that scrapes web data, generates professional reports, and emails them automatically.
-
-- 🌐 Live web scraping with BeautifulSoup
-- 📄 Auto-generated CSV & PDF reports
-- 📧 Gmail SMTP automation
-- 🖥️ Interactive Tkinter GUI
-
-**Tech:** Python · BeautifulSoup · fpdf2 · smtplib
-
-### 🧹 CSV/Excel Data Cleaner & Report Automator
-Automated data cleanup for messy business datasets
-
-Cleans raw CSV/Excel files, removes duplicates, fills missing values, and generates summary reports.
-
-**Tech:** Python · Pandas · Data Analysis
-
----
-
-## 📚 Learning Repository Suite
-
-| Repository | Focus | Status |
-|---|---|:---:|
-| Python Variables Basics | Data types, I/O, naming conventions | ✅ Complete |
-| Python Operators Basics | Arithmetic, logical, comparison operators | ✅ Complete |
-| Python Conditions | if/else/elif logic | ✅ Complete |
-| Python Loops | for loops, while loops, control flow | ✅ Complete |
-| Python Functions | Functions, parameters, return values | ✅ Complete |
-| NumPy & Pandas | Data structures & manipulation | 📚 Growing |
-| SQL Data Analysis | SQL queries, data analysis | 📚 Growing |
-
----
-
 ## 🎖️ Milestones
 
 - 🚀 Started GitHub journey — published first repos
