@@ -61,13 +61,19 @@ BS Information Technology (Class of 2028) — building practical Python projects
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshamumtaz1057&show_icons=true&theme=dark" alt="Ayesha's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamumtaz1057&theme=dark&layout=compact" alt="Top Languages" />
+  <!-- Professional, dark-themed stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ayeshamumtaz1057&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Ayesha's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamumtaz1057&theme=dark&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshamumtaz1057&theme=dark" alt="streak" />
+  <!-- Streak + activity heatmap for visual professionalism -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshamumtaz1057&theme=dark&hide_border=true" alt="streak" />
+  <br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=ayeshamumtaz1057&theme=react-dark&hide_border=true" alt="activity graph" />
 </p>
+
+<p align="center"><em>Professional snapshot — GitHub activity, top languages and streaks (dark theme).</em></p>
 
 ---
 
