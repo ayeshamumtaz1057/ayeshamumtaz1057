@@ -49,16 +49,13 @@ BS Information Technology (Class of 2028) — building practical Python projects
   https://github.com/ayeshamumtaz1057/ai-workspace-pro
 - AI Resume Analyzer — Resume scoring, ATS checks and skill-gap insights (Streamlit + NLP).  
   https://github.com/ayeshamumtaz1057/ai-resume-analyzer
-- Retail Sales Intelligence Dashboard — end-to-end retail sales analytics and dashboards.  
-  https://github.com/ayeshamumtaz1057/retail-sales-intelligence-dashboard
-
+  
 ---
 
 ## 📜 Certifications & Achievements
 - Kaggle — Python Certificate of Completion
 - Programming with Python 3.X — Issued 5 July 2026 · Certificate Code: `10430344`
 
-(You can show certificate images here: ./python-certificate.png, ./python3x-certificate.png)
 
 ---
 
