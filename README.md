@@ -66,21 +66,9 @@ BS Information Technology (Class of 2028) — building practical Python projects
 </p>
 
 <p align="center">
-  <!-- Top Languages - Light Theme -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamumtaz1057&theme=default&layout=compact&hide_border=true&text_color=0891b2&bg_color=f0f9ff&border_color=e0f2fe" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- GitHub Streak - Light Blue -->
-  <img src="https://streak-stats.demolab.com/?user=ayeshamumtaz1057&theme=default&hide_border=true&border_radius=5&background=f0f9ff&currStreakNum=0891b2&fire=ff6b35&ring=0891b2" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <!-- Activity Graph - Cyan Light -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeshamumtaz1057&theme=default&hide_border=true&area=true&point=0891b2&line=0891b2&bg_color=f0f9ff" alt="Activity Graph" />
 </p>
-
-<p align="center"><em>Professional snapshot — GitHub activity, top languages and streaks (light blue theme).</em></p>
 
 ---
 
