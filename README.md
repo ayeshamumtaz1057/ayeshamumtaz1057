@@ -6,6 +6,11 @@
 # Ayesha Mumtaz 👋
 AI/ML Engineer Aspirant | Data Analyst | Python Developer
 
+<p align="center">
+  <!-- Contribution graph -->
+  <img src="https://ghchart.rshah.org/ayeshamumtaz1057" alt="Contribution graph" />
+</p>
+
 BS Information Technology (Class of 2028) — building practical Python projects for data extraction, automation, and reporting.
 
 ---
