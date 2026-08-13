@@ -61,26 +61,26 @@ BS Information Technology (Class of 2028) — building practical Python projects
 
 ## 📈 GitHub Stats
 <p align="center">
-  <!-- Professional, dark-themed stats - Updated URLs -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshamumtaz1057&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&bg_color=0d1117" alt="Ayesha's GitHub stats" />
+  <!-- GitHub Stats - Light Blue Theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ayeshamumtaz1057&show_icons=true&theme=blue-green&hide_border=true&include_all_commits=true" alt="Ayesha's GitHub stats" />
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamumtaz1057&theme=dark&layout=compact&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <!-- Top Languages - Light Blue Theme -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamumtaz1057&theme=blue-green&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats - Alternative URL -->
-  <img src="https://streak-stats.demolab.com/?user=ayeshamumtaz1057&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak - Light Blue Theme -->
+  <img src="https://github-streak-stats.herokuapp.com/?user=ayeshamumtaz1057&theme=blue-green&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph - Alternative URL -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeshamumtaz1057&theme=dark-dimmed&hide_border=true" alt="Activity Graph" />
+  <!-- Activity Graph - Light Blue Theme -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeshamumtaz1057&theme=cyan-light&hide_border=true" alt="Activity Graph" />
 </p>
 
-<p align="center"><em>Professional snapshot — GitHub activity, top languages and streaks (dark theme).</em></p>
+<p align="center"><em>Professional snapshot — GitHub activity, top languages and streaks (light blue theme).</em></p>
 
 ---
 
