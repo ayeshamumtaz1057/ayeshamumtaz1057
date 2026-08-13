@@ -61,23 +61,23 @@ BS Information Technology (Class of 2028) — building practical Python projects
 
 ## 📈 GitHub Stats
 <p align="center">
-  <!-- GitHub Stats - Light Blue Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshamumtaz1057&show_icons=true&theme=blue-green&hide_border=true&include_all_commits=true" alt="Ayesha's GitHub stats" />
+  <!-- GitHub Stats - Light Theme -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ayeshamumtaz1057&show_icons=true&theme=default&hide_border=true&include_all_commits=true&text_color=0891b2&bg_color=f0f9ff&border_color=e0f2fe" alt="Ayesha's GitHub stats" />
 </p>
 
 <p align="center">
-  <!-- Top Languages - Light Blue Theme -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamumtaz1057&theme=blue-green&layout=compact&hide_border=true" alt="Top Languages" />
+  <!-- Top Languages - Light Theme -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamumtaz1057&theme=default&layout=compact&hide_border=true&text_color=0891b2&bg_color=f0f9ff&border_color=e0f2fe" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak - Light Blue Theme -->
-  <img src="https://github-streak-stats.herokuapp.com/?user=ayeshamumtaz1057&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak - Light Blue -->
+  <img src="https://streak-stats.demolab.com/?user=ayeshamumtaz1057&theme=default&hide_border=true&border_radius=5&background=f0f9ff&currStreakNum=0891b2&fire=ff6b35&ring=0891b2" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph - Light Blue Theme -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeshamumtaz1057&theme=cyan-light&hide_border=true" alt="Activity Graph" />
+  <!-- Activity Graph - Cyan Light -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeshamumtaz1057&theme=default&hide_border=true&area=true&point=0891b2&line=0891b2&bg_color=f0f9ff" alt="Activity Graph" />
 </p>
 
 <p align="center"><em>Professional snapshot — GitHub activity, top languages and streaks (light blue theme).</em></p>
