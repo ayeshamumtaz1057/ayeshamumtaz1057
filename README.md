@@ -20,23 +20,21 @@ BS Information Technology (Class of 2028) — building practical Python projects
 
 ## 🛠️ Tools & Skills
 
-<!-- Skill badges -->
-
-<p>
-  <img src="https://img.shields.io/badge/-%F0%9F%90%8D%20Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-%F0%9F%97%84%EF%B8%8F%20SQL-003545?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/-%F0%9F%93%8A%20Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/-%F0%9F%93%8A%20Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/-%F0%9F%8E%A8%20Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/-%F0%9F%93%88%20Plotly-3F4F7B?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/-%F0%9F%A4%96%20AI%20%2F%20LLMs-000000?style=flat-square&logo=openai&logoColor=white" alt="AI / LLMs"/>
-  <img src="https://img.shields.io/badge/-%F0%9F%94%A7%20Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git & GitHub"/>
-  <img src="https://img.shields.io/badge/-%F0%9F%97%83%EF%B8%8F%20SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/-%E2%9A%A1%EF%B8%8F%20Automation-0EA5A4?style=flat-square&logo=github-actions&logoColor=white" alt="Automation"/>
+<p align="center">
+  <a href="https://www.python.org" title="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://www.sql.org" title="SQL"><img src="https://img.shields.io/badge/SQL-003545?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/></a>
+  <a href="https://powerbi.microsoft.com/" title="Power BI"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI"/></a>
+  <a href="https://pandas.pydata.org/" title="Pandas"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/></a>
+  <a href="https://streamlit.io/" title="Streamlit"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/></a>
+  <a href="https://plotly.com/" title="Plotly"><img src="https://img.shields.io/badge/Plotly-3F4F7B?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/></a>
+  <a href="https://openai.com/" title="AI / LLMs"><img src="https://img.shields.io/badge/AI%20%2F%20LLMs-000000?style=flat-square&logo=openai&logoColor=white" alt="AI / LLMs"/></a>
+  <a href="https://github.com/" title="Git & GitHub"><img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git & GitHub"/></a>
+  <a href="https://www.sqlite.org/" title="SQLite"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/></a>
+  <a href="https://github.com/features/actions" title="Automation"><img src="https://img.shields.io/badge/Automation-0EA5A4?style=flat-square&logo=github-actions&logoColor=white" alt="Automation"/></a>
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,mysql,git,github,vscode&theme=dark" alt="tech stack icons"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,mysql,git,github,vscode,streamlit,plotly,sqlite&theme=dark" alt="tech icons"/>
 </p>
 
 ---
