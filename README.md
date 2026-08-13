@@ -4,7 +4,7 @@
 </p>
 
 # Ayesha Mumtaz 👋
-Python Developer · Data Analyst · Automation Builder
+AI/ML Engineer Aspirant | Data Analyst | Python Developer
 
 BS Information Technology (Class of 2028) — building practical Python projects for data extraction, automation, and reporting.
 
