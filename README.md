@@ -21,16 +21,16 @@ BS Information Technology (Class of 2028) — building practical Python projects
 ## 🛠️ Tools & Skills
 
 <p align="center">
-  <a href="https://www.python.org" title="Python"><img src="./.github/assets/icons/python.png" alt="Python" width="48"/></a>
-  <a href="https://www.sql.org" title="SQL"><img src="./.github/assets/icons/sql.png" alt="SQL" width="48"/></a>
-  <a href="https://powerbi.microsoft.com/" title="Power BI"><img src="./.github/assets/icons/powerbi.png" alt="Power BI" width="48"/></a>
-  <a href="https://pandas.pydata.org/" title="Pandas"><img src="./.github/assets/icons/pandas.png" alt="Pandas" width="48"/></a>
-  <a href="https://streamlit.io/" title="Streamlit"><img src="./.github/assets/icons/streamlit.png" alt="Streamlit" width="48"/></a>
-  <a href="https://plotly.com/" title="Plotly"><img src="./.github/assets/icons/plotly.png" alt="Plotly" width="48"/></a>
-  <a href="https://openai.com/" title="AI / LLMs"><img src="./.github/assets/icons/ai.png" alt="AI / LLMs" width="48"/></a>
-  <a href="https://github.com/" title="Git & GitHub"><img src="./.github/assets/icons/github.png" alt="Git & GitHub" width="48"/></a>
-  <a href="https://www.sqlite.org/" title="SQLite"><img src="./.github/assets/icons/sqlite.png" alt="SQLite" width="48"/></a>
-  <a href="https://github.com/features/actions" title="Automation"><img src="./.github/assets/icons/automation.png" alt="Automation" width="48"/></a>
+  <a href="https://www.python.org" title="Python"><img src="./.github/assets/icons/python.svg" alt="Python" width="48"/></a>
+  <a href="https://www.sql.org" title="SQL"><img src="./.github/assets/icons/sql.svg" alt="SQL" width="48"/></a>
+  <a href="https://powerbi.microsoft.com/" title="Power BI"><img src="./.github/assets/icons/powerbi.svg" alt="Power BI" width="48"/></a>
+  <a href="https://pandas.pydata.org/" title="Pandas"><img src="./.github/assets/icons/pandas.svg" alt="Pandas" width="48"/></a>
+  <a href="https://streamlit.io/" title="Streamlit"><img src="./.github/assets/icons/streamlit.svg" alt="Streamlit" width="48"/></a>
+  <a href="https://plotly.com/" title="Plotly"><img src="./.github/assets/icons/plotly.svg" alt="Plotly" width="48"/></a>
+  <a href="https://openai.com/" title="AI / LLMs"><img src="./.github/assets/icons/ai.svg" alt="AI / LLMs" width="48"/></a>
+  <a href="https://github.com/" title="Git & GitHub"><img src="./.github/assets/icons/github.svg" alt="Git & GitHub" width="48"/></a>
+  <a href="https://www.sqlite.org/" title="SQLite"><img src="./.github/assets/icons/sqlite.svg" alt="SQLite" width="48"/></a>
+  <a href="https://github.com/features/actions" title="Automation"><img src="./.github/assets/icons/automation.svg" alt="Automation" width="48"/></a>
 </p>
 
 <p align="center">
@@ -41,14 +41,16 @@ BS Information Technology (Class of 2028) — building practical Python projects
 ---
 
 ## 🚀 Selected Projects
-(Replace placeholders below with actual repo links and 1-line descriptions)
+(Actual project links from this account — updated to show your AI projects)
 
-- Project: Data Scraper & Report Generator — Automated web scraping + monthly PDF reports.  
-  https://github.com/your-org/project-one
-- Project: Automation Toolkit — Scripts to automate repetitive reporting tasks and exports.  
-  https://github.com/your-org/project-two
-- Project: Kaggle Notebooks — Data cleaning & exploratory analysis examples.  
-  https://github.com/your-org/notebooks
+- AI Business Analytics Studio — AI-powered business analytics platform (Streamlit).  
+  https://github.com/ayeshamumtaz1057/AI-Business-analytics-studio
+- AI Workspace Pro — Focused AI workspace for data analysis, PDF intelligence, chat and automation.  
+  https://github.com/ayeshamumtaz1057/ai-workspace-pro
+- AI Resume Analyzer — Resume scoring, ATS checks and skill-gap insights (Streamlit + NLP).  
+  https://github.com/ayeshamumtaz1057/ai-resume-analyzer
+- Retail Sales Intelligence Dashboard — end-to-end retail sales analytics and dashboards.  
+  https://github.com/ayeshamumtaz1057/retail-sales-intelligence-dashboard
 
 ---
 
