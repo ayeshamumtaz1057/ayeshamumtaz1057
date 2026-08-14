@@ -57,21 +57,19 @@
 ---
 
 ## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <sub><b>GitHub Stats</b></sub><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=ayeshamumtaz1057&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-    </td>
-    <td align="center">
-      <sub><b>Top Languages</b></sub><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamumtaz1057&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-    </td>
-  </tr>
-</table>
-
-
+ 
+### 📈 GitHub Stats
+ 
+![Ayesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayeshamumtaz1057&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&text_color=0891b2&title_color=0891b2&icon_color=0891b2&bg_color=f0f9ff&cache_seconds=1800)
+ 
+### 🔥 Streak Stats
+ 
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ayeshamumtaz1057&theme=default&hide_border=true&background=f0f9ff&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=0891b2)
+ 
+### 💻 Top Languages
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshamumtaz1057&layout=compact&theme=default&hide_border=true&text_color=0891b2&title_color=0891b2&bg_color=f0f9ff&cache_seconds=1800)
+ 
 
 ---
 
