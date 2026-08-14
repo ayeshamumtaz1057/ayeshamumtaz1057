@@ -62,7 +62,7 @@ BS Information Technology (Class of 2028) — building practical Python projects
 ## 📈 GitHub Stats
 <p align="center">
   <!-- GitHub Stats - Light Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshamumtaz1057&show_icons=true&theme=default&hide_border=true&include_all_commits=true&text_color=0891b2&bg_color=f0f9ff&border_color=e0f2fe" alt="Ayesha's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayeshamumtaz1057&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;include_all_commits=true&amp;text_color=0891b2&amp;title_color=0891b2&amp;icon_color=0891b2&amp;bg_color=f0f9ff" alt="Ayesha's GitHub stats" />
 </p>
 
 <p align="center">
