@@ -7,6 +7,8 @@
 <p align="center"><b>AI/ML Engineer Aspirant | Data Analyst | Python Developer</b></p>
 <p align="center">BS Information Technology (Class of 2028)</p>
 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayeshamumtaz1057&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/ayeshamumtaz1057?label=Followers&style=flat-square&color=0891b2" alt="Followers" /> <img src="https://img.shields.io/github/stars/ayeshamumtaz1057?label=Total%20Stars&style=flat-square&color=0891b2" alt="Total Stars" /> </p>
+
 ---
 
 ## 🔭 About Me
@@ -21,20 +23,29 @@
 ## 🛠️ Tools & Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /> 
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> 
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> 
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /> 
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" /> 
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> </p> <br/>
 
 ---
 
 ## 🚀 Selected Projects
 
-- **🏢 AI Business Analytics Studio** — AI-powered business analytics platform built with Streamlit. 🔗 https://github.com/ayeshamumtaz1057/AI-Business-Analytics-Studio
-
-(You can add more projects with links and short descriptions.)
+<table> 
+  <tr> <td width="33%" valign="top"> 
+    <b>🏢 AI Business Analytics Studio</b><br/><br/> AI-powered business analytics platform built with Streamlit.<br/><br/>
+    🔗  <a href="https://github.com/ayeshamumtaz1057/AI-Business-analytics-studio">View Repository</a> </td> <td width="33%" valign="top"> 
+      <b>🧠 AI Workspace Pro</b><br/><br/> Focused AI workspace for data analysis, PDF intelligence, chat, and automation.<br/><br/> 
+      🔗 <a href="https://github.com/ayeshamumtaz1057/ai-workspace-pro">View Repository</a> 
+    </td> <td width="33%" valign="top">
+        <b>📄 AI Resume Analyzer</b><br/><br/> Resume scoring, ATS checks, and skill-gap insights using Streamlit + NLP.<br/><br/>
+      🔗 <a href="https://github.com/ayeshamumtaz1057/ai-resume-analyzer">View Repository</a> </td> </tr> </table> <br/>
 
 ---
 
@@ -60,7 +71,7 @@
   </tr>
 </table>
 
-> Note: I updated the GitHub Stats image URLs to remove deprecated or extra parameters that can cause rendering issues. If images still don't appear, the third-party service may be temporarily down.
+
 
 ---
 
