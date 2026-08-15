@@ -3,6 +3,7 @@
   <img src="./banner.png" alt="banner" width="100%"/>
 </p>
 
+
 <h1 align="center">Ayesha Mumtaz 👋</h1>
 <p align="center"><b>AI/ML Engineer Aspirant | Data Analyst | Python Developer</b></p>
 <p align="center">BS Information Technology (Class of 2028)</p>
